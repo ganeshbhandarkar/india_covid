@@ -1,0 +1,1 @@
+final String apiURL = "https://api.covid19india.org/data.json";
